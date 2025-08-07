@@ -1,0 +1,6 @@
+langchain
+openai
+faiss-cpu
+gradio
+beautifulsoup4
+requests
